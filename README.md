@@ -1,7 +1,7 @@
 # FileGenics
 Coding project that autosorts files to different folders with an indicated path
 
-You will have to have python installed, and a python library called PyQt5 to work with the interface correctly, to intall it just type pip install PyQt5 in a Command Promt Window, if your python is installed correctly that should work.
+You will have to have python installed, and a python library called PyQt5 to work with the interface correctly, to install it just type pip install PyQt5 in a Command Prompt Window, if your python is installed correctly that should work.
 
 You need to download the FileGenics.zip folder and extract the files, then inside the files just double click the fileGenicsUI.py file to open the graphic interface.
 
